@@ -4,6 +4,7 @@ comparative study between a dcgan and wgan-gp on NFT10K dataset
 Both models used same hyperparameters for comparision
 
 Results:
+
 DCGAN:
 
 ![image](https://github.com/Zardian18/DCGAN-vs-WGAN-NFT-generation/assets/106113538/121b6318-ed5c-40a6-a820-2f16157cef54)
